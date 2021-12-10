@@ -17,4 +17,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_TCL_33_SMART_SHOPPING_LIST }}'
           channelId: live
-          projectId: tcl-33-smart-shopping-list
+          projectId: my-smart-shopping-list-ee379

@@ -15,13 +15,6 @@ var firebaseConfig = {
   messagingSenderId: '796512760840',
   appId: '1:796512760840:web:28f9240dd3877b482e0dbd',
   measurementId: 'G-RMYHGTDD7L',
-
-  // apiKey: 'AIzaSyDvzgnSQnO1aVPBLCaA8nU0Bx_Jwmas9Xo',
-  // authDomain: 'tcl-33-smart-shopping-list.firebaseapp.com',
-  // projectId: 'tcl-33-smart-shopping-list',
-  // storageBucket: 'tcl-33-smart-shopping-list.appspot.com',
-  // messagingSenderId: '863557216637',
-  // appId: '1:863557216637:web:d3e5b61342ab5b1df20414',
 };
 
 const firebaseInstance = firebase.initializeApp(firebaseConfig);
